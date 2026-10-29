@@ -6,9 +6,10 @@ Projeto desenvolvido para a atividade prática da disciplina **Linguagem de Prog
 
 - Next.js
 - React
+- TypeScript
 - Prisma ORM 7
 - MySQL
-- JavaScript
+- CSS
 
 ## Funcionalidades
 
@@ -29,9 +30,7 @@ npm install
 
 ### 2. Configurar o banco de dados
 
-Configure a conexão com o banco de dados MySQL conforme as configurações do projeto.
-
-Crie o arquivo `.env` com as variáveis de ambiente necessárias.
+Configure a conexão com o banco de dados MySQL e crie o arquivo `.env` com as variáveis de ambiente necessárias.
 
 ### 3. Executar a aplicação
 
@@ -43,4 +42,4 @@ Depois, acesse http://localhost:3000 pelo navegador.
 
 ## Objetivo
 
-Praticar o desenvolvimento de uma aplicação web utilizando Next.js, integração com banco de dados MySQL e Prisma ORM para realizar operações CRUD.
+Praticar o desenvolvimento de uma aplicação web utilizando Next.js, TypeScript, integração com banco de dados MySQL e Prisma ORM para realizar operações CRUD.
